@@ -1,4 +1,4 @@
-#  
+#  Enhance Craft for macOS with smart Craft for macOS Utility | task automation + dark mode, the #1 utility. Includes task automation and dark mode for a smoother experience.
 
 
 
